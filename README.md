@@ -3,7 +3,7 @@
   
   ## Roman Kozak
   #### Lead Frontend Software Engineer
-  ![Location](https://img.shields.io/badge/Location-Chicago,%20IL-informational?style=for-the-badge&logo=googlemaps&logoColor=white)
+  ![Location](https://img.shields.io/badge/Location-USA,%20Chicago,%20IL-informational?style=for-the-badge&logo=googlemaps&logoColor=white)
 </div>
 <br/>
 
@@ -20,8 +20,8 @@ Always eager to learn 📚 and share knowledge, I'm here to connect with like-mi
 <div align="center">
   <br/>
   
-  ![Master's](https://img.shields.io/badge/Master's-Computer%20Science-blue?style=for-the-badge&logo=universityo&logoColor=white)
-  ![Bachelor's](https://img.shields.io/badge/Bachelor's-Computer%20Science-lightblue?style=for-the-badge&logo=university&logoColor=white)
+  ![Master's](https://img.shields.io/badge/Master's-Computer%20Science%20&%20Information%20Technologies-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+  ![Bachelor's](https://img.shields.io/badge/Bachelor's-Computer%20Science-lightblue?style=for-the-badge&logo=bookstack&logoColor=white)
 
   ![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-Foundations%20Professional-blue?style=for-the-badge&logo=docker&logoColor=white)
@@ -107,6 +107,7 @@ Always eager to learn 📚 and share knowledge, I'm here to connect with like-mi
 
 ## 💪 Professional Strengths
 
+<br>
 <div align="center">
   <table>
     <tr>
@@ -169,9 +170,10 @@ Always eager to learn 📚 and share knowledge, I'm here to connect with like-mi
     </tr>
   </table>
 </div>
+<br>
 
 ## 📊 GitHub Performance
-
+<br>
 <table align="center">
   <tr>
     <td>
@@ -187,9 +189,7 @@ Always eager to learn 📚 and share knowledge, I'm here to connect with like-mi
     </td>
   </tr>
 </table>
-  
 <br>
-
 
 ## 🤝 Let's Connect!
 
@@ -199,9 +199,6 @@ Always eager to learn 📚 and share knowledge, I'm here to connect with like-mi
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romko.kozak@gmail.com)
 
 </div>
-
----
-
 <div align="center">
   
   **Code That Speaks, Interfaces That Listen 💬**
@@ -212,5 +209,4 @@ Always eager to learn 📚 and share knowledge, I'm here to connect with like-mi
 </div>
 <div align="center">
     <a href="https://www.buymeacoffee.com/romko.kozak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 </div>
